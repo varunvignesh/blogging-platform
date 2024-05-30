@@ -1,0 +1,14 @@
+{
+      "ACCESS_DENIED": "Access denied",
+      "UNKNOWN_ERROR": "Something went wrong",
+      "EMAIL_EXIST": "Email already exists",
+      "EMAIL_NOT_FOUND": "Email not found",
+      "AUTHOR_NOT_FOUND": "Author not found",
+      "POST_NOT_FOUND": "Post not found",
+      "PASSWORD_INCORRECT": "Passwrod incorrect",
+      "CREATED": "Successfully created",
+      "UPDATED": "Successfully updated",
+      "DELETED": "Successfully deleted",
+      "FETCHED": "Successfully fetched",
+      "LOGIN_SUCCESS": "Logged in successfully"
+}
