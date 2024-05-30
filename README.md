@@ -23,3 +23,13 @@ npx sequelize db:seed:all
 ```
 node index.js
 ```
+
+* Run the tests
+
+```
+npm test
+```
+
+* Here's the link for Api Documentation
+
+https://documenter.getpostman.com/view/27648946/2sA3Qv7qNK
