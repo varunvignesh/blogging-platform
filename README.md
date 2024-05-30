@@ -1,4 +1,4 @@
-**Qlan Message Service**
+**Blogging platform Application**
 
 **Setup**
 
